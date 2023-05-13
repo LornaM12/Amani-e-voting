@@ -1,0 +1,11 @@
+Create a database "poll"
+
+import poll.sql file from phpmyadmin
+
+
+
+ADMIN LOGIN DETAILS
+URL: localhost/Amani-evoting/admin //login as administrator
+USER NAME: admin@example.com
+PASSWORD: admin
+URL: localhost/evoting	//students login page click to register first
